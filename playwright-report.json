@@ -1,0 +1,81 @@
+{
+  "stats": {
+    "expected": 8,
+    "unexpected": 6,
+    "skipped": 0,
+    "flaky": 0,
+    "duration": 4529
+  },
+  "tests": [
+    {
+      "title": "Logo görseli doğru src'ye sahip olmalı",
+      "status": "failed",
+      "duration": 547
+    },
+    {
+      "title": "Nav linkleri doğru text ve 'italic' class'ına sahip olmalı",
+      "status": "passed",
+      "duration": 548
+    },
+    {
+      "title": "CTA başlığı doğru text içermeli",
+      "status": "passed",
+      "duration": 156
+    },
+    {
+      "title": "CTA butonu doğru text içermeli",
+      "status": "passed",
+      "duration": 153
+    },
+    {
+      "title": "CTA görseli doğru src'ye sahip olmalı",
+      "status": "failed",
+      "duration": 272
+    },
+    {
+      "title": "Middle img doğru src'ye sahip olmalı",
+      "status": "passed",
+      "duration": 501
+    },
+    {
+      "title": "Top content başlıkları doğru olmalı",
+      "status": "passed",
+      "duration": 169
+    },
+    {
+      "title": "Top content paragrafları doğru olmalı",
+      "status": "failed",
+      "duration": 222
+    },
+    {
+      "title": "Bottom content başlıkları doğru olmalı",
+      "status": "passed",
+      "duration": 446
+    },
+    {
+      "title": "Bottom content paragrafları doğru olmalı",
+      "status": "failed",
+      "duration": 283
+    },
+    {
+      "title": "Contact başlığı doğru olmalı",
+      "status": "passed",
+      "duration": 442
+    },
+    {
+      "title": "Contact bilgileri doğru olmalı",
+      "status": "failed",
+      "duration": 253
+    },
+    {
+      "title": "Footer linki doğru text'e ve 'bold' class'ına sahip olmalı",
+      "status": "failed",
+      "duration": 527
+    },
+    {
+      "title": "index.html içeriği değişmemiş olmalı",
+      "status": "passed",
+      "duration": 11
+    }
+  ]
+}
